@@ -1,4 +1,4 @@
-O novo array só deve mostrar números maiores que 37.
+//O novo array só deve mostrar números maiores que 37.
 
 const array = [36, 60, 50, 10, 20];
 
