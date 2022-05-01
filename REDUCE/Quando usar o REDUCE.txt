@@ -1,0 +1,6 @@
+Quando baseado no array original, você precisa "reduzir" o array à um valor.
+O reduce tem poder e versatilidade para gerar um novo valor que não necessariamente precisa ser um array.
+
+Ex: Somar todos os valores do array
+array = [1,2,3]
+somaValores = 6;

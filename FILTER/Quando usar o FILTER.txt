@@ -1,0 +1,6 @@
+Quando você precisa obter um novo array, com a uma quantidade de itens menor
+que a do array original.
+
+Ex: O novo array só deve trazer números menos q 2.
+Original: [1,2,3]
+Novo array: [1]

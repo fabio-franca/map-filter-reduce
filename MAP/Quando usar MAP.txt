@@ -1,0 +1,3 @@
+Quando você precisa obter um novo array, com a mesma quantidade de itens do array original.
+
+É possível transformar arrays e objetos.
